@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="character">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="character.Role" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Character.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAABAAAAAAACAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="charSheet">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\charSheet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chose">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Chose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DangerGround">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACgAAAAQAAAAAAAAAEAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DangerGround.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="followCam">
+    <Position X="17" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIAAAAAIAAAIAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\followCam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gameStart">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAACAQAAAAAAAAAACSAgACEAQAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\gameStart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="inex">
+    <Position X="20.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Scripts\inex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWriter">
+    <Position X="22.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\JWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lvlcler">
+    <Position X="15.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\lvlcler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="nextScene">
+    <Position X="22.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\nextScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player_Controller">
+    <Position X="20.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAEiAAAAAEAAABAQAAQAAAAAAAAAEAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Player_Controller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerLoader">
+    <Position X="20.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\PlayerLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveGame">
+    <Position X="17" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SaveGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIHUD">
+    <Position X="15.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAEAAAAAAAAAAAAAAAACAAIAhAAAAAIEA=</HashCode>
+      <FileName>Assets\Scripts\UIHUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UISheet">
+    <Position X="18.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAIEAAAACAAABAAAAABACAAIAhAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UISheet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

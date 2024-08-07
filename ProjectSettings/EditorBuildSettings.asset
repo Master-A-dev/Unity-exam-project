@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/charselect.unity
+    guid: 60a317dcac70c1a4b96b8e2987dbb6b8
+  - enabled: 1
+    path: Assets/Scenes/Test stage.unity
+    guid: 5698f4ea99434d145b5217595a9631a9
+  - enabled: 1
+    path: Assets/Scenes/2.unity
+    guid: 1d864bd97a1351d4e9b6ba808146d16e
+  - enabled: 1
+    path: Assets/Scenes/finito.unity
+    guid: 16a4c16fc2c596e4b83a790dbace12d3
+  - enabled: 1
+    path: Assets/Scenes/Death screen.unity
+    guid: 38c9b2a33cd1a954da74f040f2e4de7f
+  m_configObjects: {}

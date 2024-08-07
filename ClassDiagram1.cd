@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BulletBehavior">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAAEAAAAAACACEAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BulletBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="charater">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="charater.Role">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\charater.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAABAAAAAAACAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\charater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="charSheet">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\charSheet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chose">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Chose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DangerGround">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACgAAAAQAAAAAAAAAEAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DangerGround.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyDamage">
+    <Position X="11" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyDamage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyGeneral" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAACJACAAAEAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyGeneral.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.392" Collapsed="true" />
+  </Class>
+  <Class Name="EnemyMove">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAIACAAAQAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="followCam">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIAAAAAIAAAIAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\followCam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gameStart">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAACAQAAAAAAAAAACSAgACEAQAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\gameStart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="inex">
+    <Position X="9.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Scripts\inex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ingame">
+    <Position X="7.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ingame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWriter">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\JWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lvlcler">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\lvlcler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewMove">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAiAAAEAAAAAAAAAAAQACCAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\NewMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="nextScene">
+    <Position X="4" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\nextScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerLoader">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\PlayerLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveGame">
+    <Position X="9.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SaveGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIHUD">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAEAAAAAAAAAAAAAAAACAAIAhAAAAAIEA=</HashCode>
+      <FileName>Assets\Scripts\UIHUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UISheet">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAIEAAAACAAABAAAAABACAAIAhAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UISheet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wand">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAACAAIAAgBAAAAAAAAAAAAAAAABQAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Wand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZombieMove">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAIACAAAQAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ZombieMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="IDamagable">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\IDamagable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
